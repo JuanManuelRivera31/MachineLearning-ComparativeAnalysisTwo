@@ -1,0 +1,10 @@
+# Entorno local
+.venv/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Archivos temporales de Word
+~$*
